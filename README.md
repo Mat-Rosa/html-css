@@ -1,7 +1,7 @@
 ## Welcome!
 All exercises available from CursoemVideo - Modules 1 to 3 (HTML/CSS3)
 
-###### Links para os exercícios
+###### Links to exercises
 - [ex001](https://mat-rosa.github.io/html-css/exercicios/ex001/)
 - [ex002](https://mat-rosa.github.io/html-css/exercicios/ex002/)
 - [ex003](https://mat-rosa.github.io/html-css/exercicios/ex003/)
@@ -26,7 +26,7 @@ All exercises available from CursoemVideo - Modules 1 to 3 (HTML/CSS3)
 - [ex021](https://mat-rosa.github.io/html-css/exercicios/ex021/caixa01.html)
 - [ex022](https://mat-rosa.github.io/html-css/exercicios/ex022/fundo001.html)
 
-###### Links para os desafios
+###### Links to challenges
 - [d001](https://mat-rosa.github.io/html-css/desafios/modulo-1/d001/)
 - [d002](https://mat-rosa.github.io/html-css/desafios/modulo-1/d002/)
 - [d003](https://mat-rosa.github.io/html-css/desafios/modulo-1/d003/)
