@@ -1,2 +1,38 @@
-# html-css
- HTML/CSS3 Course by CursoemVideo
+## Welcome!
+All exercises available from CursoemVideo - Modules 1 to 3 (HTML/CSS3)
+
+###### Links para os exercícios
+- [ex001](https://mat-rosa.github.io/html-css/exercicios/ex001/)
+- [ex002](https://mat-rosa.github.io/html-css/exercicios/ex002/)
+- [ex003](https://mat-rosa.github.io/html-css/exercicios/ex003/)
+- [ex004](https://mat-rosa.github.io/html-css/exercicios/ex004/)
+- [ex005](https://mat-rosa.github.io/html-css/exercicios/ex005/)
+- [ex006](https://mat-rosa.github.io/html-css/exercicios/ex006/)
+- [ex007](https://mat-rosa.github.io/html-css/exercicios/ex007/)
+- [ex008](https://mat-rosa.github.io/html-css/exercicios/ex008/)
+- [ex008b](https://mat-rosa.github.io/html-css/exercicios/ex008b/)
+- [ex009](https://mat-rosa.github.io/html-css/exercicios/ex009/)
+- [ex010](https://mat-rosa.github.io/html-css/exercicios/ex010/)
+- [ex011](https://mat-rosa.github.io/html-css/exercicios/ex011/)
+- [ex012](https://mat-rosa.github.io/html-css/exercicios/ex012/)
+- [ex013](https://mat-rosa.github.io/html-css/exercicios/ex013/)
+- [ex014](https://mat-rosa.github.io/html-css/exercicios/ex014/)
+- [ex015](https://mat-rosa.github.io/html-css/exercicios/ex015/)
+- [ex016](https://mat-rosa.github.io/html-css/exercicios/ex016/cor01.html)
+- [ex017](https://mat-rosa.github.io/html-css/exercicios/ex017/fonte01.html)
+- [ex018](https://mat-rosa.github.io/html-css/exercicios/ex018/fonte01.html)
+- [ex019](https://mat-rosa.github.io/html-css/exercicios/ex019/seletor01.html)
+- [ex020](https://mat-rosa.github.io/html-css/exercicios/ex020/hover.html)
+- [ex021](https://mat-rosa.github.io/html-css/exercicios/ex021/caixa01.html)
+- [ex022](https://mat-rosa.github.io/html-css/exercicios/ex022/fundo001.html)
+
+###### Links para os desafios
+- [d001](https://mat-rosa.github.io/html-css/desafios/modulo-1/d001/)
+- [d002](https://mat-rosa.github.io/html-css/desafios/modulo-1/d002/)
+- [d003](https://mat-rosa.github.io/html-css/desafios/modulo-1/d003/)
+- [d004](https://mat-rosa.github.io/html-css/desafios/modulo-1/d004/)
+- [d005](https://mat-rosa.github.io/html-css/desafios/modulo-1/d005/)
+- [d006](https://mat-rosa.github.io/html-css/desafios/modulo-1/d006/)
+- [d007](https://mat-rosa.github.io/html-css/desafios/modulo-1/d007/)
+- [d008](https://mat-rosa.github.io/html-css/desafios/modulo-1/d008/)
+- [d009](https://mat-rosa.github.io/html-css/desafios/modulo-1/d009/)
