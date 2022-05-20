@@ -25,7 +25,7 @@ All exercises available from CursoemVideo - Modules 1 to 3 (HTML/CSS3)
 - [ex020](https://mat-rosa.github.io/html-css/exercicios/ex020/hover.html)
 - [ex021](https://mat-rosa.github.io/html-css/exercicios/ex021/caixa01.html)
 - [ex022](https://mat-rosa.github.io/html-css/exercicios/ex022/fundo001.html)
-- [ex023](https://mat-rosa.github.io/html-css/exercicios/ex022/tabela001.html)
+- [ex023](https://mat-rosa.github.io/html-css/exercicios/ex023/tabela001.html)
 
 ###### Links to challenges
 - [d001](https://mat-rosa.github.io/html-css/desafios/modulo-1/d001/)
